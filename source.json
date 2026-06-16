@@ -1,46 +1,29 @@
 {
-  "name": "VibeHub Ultra",
-  "identifier": "com.vibehub.sidestore.ultra",
-  "sourceURL": "https://raw.githubusercontent.com/Ardorzxc-source/Vibetok-Source/main/source.json",
-
-  "subtitle": "Premium IPA Collection",
-  "description": "A stable and curated SideStore repository with tweaked and utility apps.",
-
+  "name": "VibeTok Source",
+  "identifier": "com.vibetok.source",
+  "subtitle": "Stable SideStore Repo",
+  "description": "A stable and minimal SideStore repository for VibeTok IPA installation.",
   "iconURL": "https://i.pinimg.com/originals/06/17/cd/0617cdeb704b2ef2bb995831e0fa27f1.jpg?nii=t",
   "headerURL": "https://images.unsplash.com/photo-1520975922284-7f61c7f6f6f2?auto=format&fit=crop&w=1800&q=80",
-
   "website": "https://github.com/6gr8/VibeTok",
   "tintColor": "#7C3AED",
-
-  "featuredApps": [
-    "com.den.vibett"
-  ],
 
   "apps": [
     {
       "name": "VibeTok",
       "bundleID": "com.den.vibett",
       "developerName": "DeNsor",
-      "subtitle": "Enhanced TikTok Client",
-      "localizedDescription": "Premium modified TikTok client with downloads, UI improvements, and usability enhancements.",
+      "subtitle": "TikTok Client",
+      "localizedDescription": "Modified TikTok client with extra features.",
       "iconURL": "https://i.pinimg.com/originals/06/17/cd/0617cdeb704b2ef2bb995831e0fa27f1.jpg?nii=t",
       "version": "1.72",
       "versionDate": "2026-03-04T00:00:00Z",
       "downloadURL": "https://github.com/6gr8/VibeTok/releases/download/VibeTok/VibeTokV1.72.ipa",
-      "size": 396268032,
-      "screenshots": [
-        "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?auto=format&fit=crop&w=900&q=80",
-        "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?auto=format&fit=crop&w=900&q=80"
-      ]
+      "size": 396268032
     }
   ],
 
-  "news": [
-    {
-      "title": "Welcome to VibeHub Ultra",
-      "identifier": "welcome",
-      "caption": "Stable SideStore repository is now live.",
-      "date": "2026-06-16T00:00:00Z"
-    }
+  "featuredApps": [
+    "com.den.vibett"
   ]
 }
