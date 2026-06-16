@@ -2,7 +2,7 @@
   "name": "VibeTok Source",
   "identifier": "com.vibetok.source",
   "subtitle": "Stable SideStore Repo",
-  "description": "A stable and minimal SideStore repository for VibeTok IPA installation.",
+  "description": "A stable SideStore repository for VibeTok IPA installation.",
   "iconURL": "https://i.pinimg.com/originals/06/17/cd/0617cdeb704b2ef2bb995831e0fa27f1.jpg?nii=t",
   "headerURL": "https://images.unsplash.com/photo-1520975922284-7f61c7f6f6f2?auto=format&fit=crop&w=1800&q=80",
   "website": "https://github.com/6gr8/VibeTok",
@@ -11,7 +11,7 @@
   "apps": [
     {
       "name": "VibeTok",
-      "bundleID": "com.den.vibett",
+      "bundleIdentifier": "com.den.vibett",
       "developerName": "DeNsor",
       "subtitle": "TikTok Client",
       "localizedDescription": "Modified TikTok client with extra features.",
