@@ -1,20 +1,28 @@
 {
   "name": "VibeHub Ultra",
   "identifier": "com.vibehub.sidestore.ultra",
+  "sourceURL": "https://raw.githubusercontent.com/Ardorzxc-source/Vibetok-Source/main/source.json",
+
   "subtitle": "Premium IPA Collection",
-  "description": "A high-quality curated SideStore repository with tweaked, utility and social apps.",
+  "description": "A stable and curated SideStore repository with tweaked and utility apps.",
+
   "iconURL": "https://i.pinimg.com/originals/06/17/cd/0617cdeb704b2ef2bb995831e0fa27f1.jpg?nii=t",
   "headerURL": "https://images.unsplash.com/photo-1520975922284-7f61c7f6f6f2?auto=format&fit=crop&w=1800&q=80",
+
   "website": "https://github.com/6gr8/VibeTok",
-  "tintColor": "#8B5CF6",
+  "tintColor": "#7C3AED",
+
+  "featuredApps": [
+    "com.den.vibett"
+  ],
 
   "apps": [
     {
       "name": "VibeTok",
       "bundleID": "com.den.vibett",
       "developerName": "DeNsor",
-      "subtitle": "Social • Enhanced TikTok Client",
-      "localizedDescription": "Premium modified TikTok client with downloads, UI enhancements, and improved usability.",
+      "subtitle": "Enhanced TikTok Client",
+      "localizedDescription": "Premium modified TikTok client with downloads, UI improvements, and usability enhancements.",
       "iconURL": "https://i.pinimg.com/originals/06/17/cd/0617cdeb704b2ef2bb995831e0fa27f1.jpg?nii=t",
       "version": "1.72",
       "versionDate": "2026-03-04T00:00:00Z",
@@ -27,15 +35,11 @@
     }
   ],
 
-  "featuredApps": [
-    "com.den.vibett"
-  ],
-
   "news": [
     {
       "title": "Welcome to VibeHub Ultra",
       "identifier": "welcome",
-      "caption": "Premium SideStore repository is now live.",
+      "caption": "Stable SideStore repository is now live.",
       "date": "2026-06-16T00:00:00Z"
     }
   ]
